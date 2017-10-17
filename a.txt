@@ -1,9 +1,3 @@
 hello gitSkills
 creating a new branch is quick
 <<<<<<< HEAD
-create another branch 
-feature and master
-=======
-create another branch
-feature and master
->>>>>>> feature
